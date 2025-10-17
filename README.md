@@ -27,20 +27,7 @@ use.
 • Motivational quotes or daily messages 
 • Optional cloud backup using Firebase 
 # Project Scope 
-What we will be done during this semester:  
-• Month 1: Research & UI Design 
-- Define main features clearly. 
-- Design UI using Figma (select color scheme & icons). 
-- Write documentation about app purpose and target users. 
-• Month 2: Project Setup & Core Layouts 
-- Create Android project with MVVM architecture. 
-- Set up Room database. 
-- Build core screens: Add Habit, Habit List, and Detail (XML). 
-• Month 3: Habit CRUD + Logic 
-- Implement Add/Edit/Delete habit functions. 
-- Connect ViewModel, Repository, and DAO. 
-- Save and load data from database. 
-- Implement “mark habit as done” logic. 
+During this semester, we will begin by researching and designing the user interface in the first month, including defining the main features, choosing color schemes and icons in Figma, and writing documentation about the app’s purpose and target users. In the second month, we will focus on setting up the Android project with the MVVM architecture, configuring the Room database, and building the main screens such as Add Habit, Habit List, and Detail. Finally, in the third month, we will implement the core CRUD functions for habits, connect the ViewModel, Repository, and DAO, enable data saving and loading, and add the feature to mark habits as done.
 # Tools and Technologies 
 The main tools and software used to develop the app: 
 • Android Studio: Used as the main IDE for developing and testing the mobile 
