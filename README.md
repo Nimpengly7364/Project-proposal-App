@@ -1,7 +1,6 @@
 # Project Title  
 **Routiner – Habit Tracker App**
 
----
 
 ## 1. Problem Statement  
 
@@ -12,7 +11,6 @@
 
 + To solve this, we propose the **Routiner – Habit Tracker App**, which provides a simple and digital way to plan, track, and maintain habits through a mobile app.  
 
----
 
 ## 2. Objective  
 
@@ -22,7 +20,6 @@ The main goal of this app is to help users build and maintain good habits by off
 - Monitor daily improvement easily.  
 - Stay motivated with reminders and progress updates.  
 
----
 
 ## 3. Reason for Choosing This Project  
 
@@ -30,7 +27,6 @@ The main goal of this app is to help users build and maintain good habits by off
 - Paper-based plans are often forgotten because we use our phones more frequently.  
 - This app will make habit tracking easier, more organized, and more effective for personal growth.  
 
----
 
 ## 4. Main Features  
 
@@ -44,7 +40,6 @@ This section lists the key functions that make the Routiner app simple and usefu
 - Motivational quotes or daily messages.  
 - Optional cloud backup using Firebase.  
 
----
 
 ## 5. Project Scope  
 
@@ -64,7 +59,6 @@ This section lists the key functions that make the Routiner app simple and usefu
   - Save and load data from database.  
   - Implement “mark habit as done” logic.  
 
----
 
 ## 6. Tools and Technologies  
 
